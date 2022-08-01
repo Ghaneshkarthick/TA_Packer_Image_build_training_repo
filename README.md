@@ -1,0 +1,1 @@
+# TA_Packer_Image_build_training_repo
